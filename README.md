@@ -1,8 +1,4 @@
 
-# Building Intelligent Systems
-
-Exploring AI agents, multi-agent architectures, web automation, and research-driven software engineering.
-
 ## AI Agents & Automation
 
 - [WebAgent](https://github.com/rashidiff/WebAgent) — AI-powered browser automation with Chrome Extension, FastAPI, and LangChain.
